@@ -8,3 +8,12 @@ h1{
 h2, h3{
 	color: #1e438c;
 }
+p{
+	margin-left: 2em;
+	width: 50%;
+}
+.auteur{
+	font-weight: bold;
+	font-style: italic;
+	color: #1e438c
+}
